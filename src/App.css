@@ -1,0 +1,33 @@
+body{
+    background-color:#2B3D5B;
+}
+.container{
+margin-top: 150px;
+max-width: 490px;
+background-color: bisque;
+}
+.text-center {
+    text-align: center;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  .btn-success,
+  .btn-danger,
+  .btn-warning {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+
+  
